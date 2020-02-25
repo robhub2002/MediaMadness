@@ -1,0 +1,53 @@
+div{
+	background-color: CadetBlue;
+	margin: ;
+	text-align: Center;
+}
+header{
+	background-color: lightblue;
+	text-align: center;
+	border-style: solid;
+	border-width: 5px;
+	border-color: Midnightblue;
+	height: 200px;
+	font-size: 20px;
+}
+nav{
+	background-color: goldenrod;
+}
+article{
+	background-color: lightgrey;
+	height: 500px;
+}
+footer{
+	background-color: darkturquoise;
+	border-style: solid;
+	border-width: 5px;
+	border-color: midnightblue;
+}
+aside{
+	background-color: wheat;
+	border-style: solid;
+	border-width: 10px;
+	border-color: aliceblue;
+}
+section{
+	background-color: whitesmoke;
+	border-style: solid;
+	border-width: 5px;
+	border-color: aliceblue;
+}
+button{
+	margin: 10px;
+}
+img{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+ .carousel-inner img {
+      width: 50%;
+      height: 50%;
+ }
